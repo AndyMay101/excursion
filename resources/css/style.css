@@ -7,14 +7,14 @@ h1 {
 html {
   font-family: verdana;
 }
-body, header, div, footer {
+body {
   background-color: black;
   text-align: center;
   align-content: center;
 }
 h2 {
   font-size: 42px;
-  font-weight: 300
+  font-weight: 300;
   color: white;
 }
 h3
@@ -22,6 +22,9 @@ h3
     font-size: 21px;
     color: gray;
   }
+h3.footer {
+  font-size: 12px;
+}
 h4 {
   font-size: 16px;
   color: aquamarine;

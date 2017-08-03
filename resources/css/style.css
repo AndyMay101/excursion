@@ -9,8 +9,21 @@ html {
 }
 body {
   background-color: black
+  text-align: center;
 }
-h3 {
+h2 {
   font-size: 16px;
   color: aquamarine;
+}
+h3
+  {
+    font-size: 21px;
+    color: gray;
+  }
+div.video {
+  align-content: center;
+  text-align: center;
+}
+footer  {
+    text-align: right;
 }

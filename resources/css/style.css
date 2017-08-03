@@ -1,6 +1,13 @@
 h1 {
-  font-size: 40px;
+  font-size: 100px;
+  font-weight: normal;
+  color: white;
+  align-content: center;
 }
 html {
-  font-family: sans-serif;
+  font-family: verdana;
+}
+h3 {
+  font-size: 16px;
+  color: aquamarine;
 }

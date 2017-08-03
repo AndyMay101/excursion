@@ -20,9 +20,10 @@ h3
     font-size: 21px;
     color: gray;
   }
-div.video {
-  align-content: center;
+
+.videocontainer  {
   text-align: center;
+  
 }
 footer  {
     text-align: right;

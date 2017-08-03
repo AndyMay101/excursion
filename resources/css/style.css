@@ -29,7 +29,7 @@ h4 {
 
 .videocontainer  {
   text-align: center;
-  color: black;
+  background-color: black inherit;
   align-content: center;
 }
 footer  {

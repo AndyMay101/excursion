@@ -10,6 +10,7 @@ html {
 body {
   background-color: black
   text-align: center;
+  align-content: center;
 }
 h2 {
   font-size: 42px;
@@ -29,7 +30,7 @@ h4 {
 .videocontainer  {
   text-align: center;
   color: black;
-
+  align-content: center;
 }
 footer  {
     text-align: right;
